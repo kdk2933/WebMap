@@ -16,7 +16,7 @@
 #
 # Now you can point your browser to http://localhost:8000
 
-FROM ubuntu:latest
+FROM ubuntu:kinetic-20220830
 
 ENV DEBIAN_FRONTEND noninteractive
 
